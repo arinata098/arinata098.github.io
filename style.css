@@ -131,7 +131,7 @@ td{
 /* Text */
 
 a.fn {
-    font-family: pacifico;
+    font-family: 'Pacifico', cursive;
     font-size: 42px;
 }
 
@@ -198,13 +198,13 @@ h4.feature{
 
 span.orangetxt{
     color: #e77e23;
-    font-family: pacifico;
+    font-family: 'Pacifico', cursive;
     font-size: 55px;
 }
 
 span.blacktxt{
     color: #000000;
-    font-family: pacifico;
+    font-family: 'Pacifico', cursive;
     font-size: 55px;
 }
 
@@ -259,7 +259,7 @@ p.partnerarea{
 }
 
 p.fn{
-    font-family: pacifico;
+    font-family: 'Pacifico', cursive;
     font-size: 40px;
     color: #000000;
 }
